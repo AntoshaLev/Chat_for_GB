@@ -1,0 +1,49 @@
+2022-11-28 03:12:45,051 DEBUG client.py Args loaded
+2022-11-28 03:12:56,420 DEBUG client.py Using USERNAME = anton, PASSWD = 123.
+2022-11-28 03:12:56,420 INFO client.py Запущен клиент с параметрами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: anton
+2022-11-28 03:12:57,714 DEBUG client.py Keys successfully loaded.
+2022-11-28 03:12:57,780 INFO transport.py Попытка подключения №1
+2022-11-28 03:13:00,817 INFO transport.py Попытка подключения №2
+2022-11-28 03:13:03,853 INFO transport.py Попытка подключения №3
+2022-11-28 03:13:06,888 INFO transport.py Попытка подключения №4
+2022-11-28 03:13:09,929 INFO transport.py Попытка подключения №5
+2022-11-28 03:13:12,977 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-28 03:14:06,622 DEBUG client.py Args loaded
+2022-11-28 03:14:15,725 DEBUG client.py Using USERNAME = Anton, PASSWD = 123.
+2022-11-28 03:14:15,725 INFO client.py Запущен клиент с параметрами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Anton
+2022-11-28 03:14:15,811 DEBUG client.py Keys successfully loaded.
+2022-11-28 03:14:15,848 INFO transport.py Попытка подключения №1
+2022-11-28 03:14:18,875 INFO transport.py Попытка подключения №2
+2022-11-28 03:14:21,920 INFO transport.py Попытка подключения №3
+2022-11-28 03:14:24,950 INFO transport.py Попытка подключения №4
+2022-11-28 03:14:28,002 INFO transport.py Попытка подключения №5
+2022-11-28 03:14:31,031 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-28 03:15:28,723 DEBUG client.py Args loaded
+2022-11-28 03:15:43,507 DEBUG client.py Using USERNAME = anton, PASSWD = 123.
+2022-11-28 03:15:43,507 INFO client.py Запущен клиент с параметрами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: anton
+2022-11-28 03:15:43,594 DEBUG client.py Keys successfully loaded.
+2022-11-28 03:15:43,630 INFO transport.py Попытка подключения №1
+2022-11-28 03:15:46,662 INFO transport.py Попытка подключения №2
+2022-11-28 03:15:49,694 INFO transport.py Попытка подключения №3
+2022-11-28 03:15:52,715 INFO transport.py Попытка подключения №4
+2022-11-28 03:15:55,750 INFO transport.py Попытка подключения №5
+2022-11-28 03:15:58,781 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-28 03:16:57,824 DEBUG client.py Args loaded
+2022-11-28 03:17:06,484 DEBUG client.py Using USERNAME = Anna, PASSWD = 123456.
+2022-11-28 03:17:06,484 INFO client.py Запущен клиент с параметрами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Anna
+2022-11-28 03:17:06,571 DEBUG client.py Keys successfully loaded.
+2022-11-28 03:17:06,609 INFO transport.py Попытка подключения №1
+2022-11-28 03:17:09,639 INFO transport.py Попытка подключения №2
+2022-11-28 03:17:12,671 INFO transport.py Попытка подключения №3
+2022-11-28 03:17:15,709 INFO transport.py Попытка подключения №4
+2022-11-28 03:17:18,746 INFO transport.py Попытка подключения №5
+2022-11-28 03:17:21,786 CRITICAL transport.py Не удалось установить соединение с сервером
+2022-11-28 03:37:36,366 DEBUG client.py Args loaded
+2022-11-28 03:37:36,608 INFO client.py Запущен клиент с параметрами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: test1
+2022-11-28 03:37:37,741 DEBUG client.py Keys successfully loaded.
+2022-11-28 03:37:37,809 INFO transport.py Попытка подключения №1
+2022-11-28 03:37:40,839 INFO transport.py Попытка подключения №2
+2022-11-28 03:37:43,879 INFO transport.py Попытка подключения №3
+2022-11-28 03:37:46,913 INFO transport.py Попытка подключения №4
+2022-11-28 03:37:49,935 INFO transport.py Попытка подключения №5
+2022-11-28 03:37:52,970 CRITICAL transport.py Не удалось установить соединение с сервером
